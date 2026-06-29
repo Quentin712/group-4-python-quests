@@ -31,15 +31,23 @@ Level 6: The Grand Challenge
 ## Hot to run 
 
 First clone the repository
+
 -git clone https://github.com/Quentin712/group-4-python-quests.git
+
 -then 
+
 -cd group-4-python-quests
 
 To run at once:
+
 -for f in *.py; do
+
 -echo "Running $f..."; 
+
 -python3 "$f"; 
+
 -echo "---"; 
+
 -done
 
 
