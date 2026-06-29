@@ -63,12 +63,14 @@ git clone https://github.com/Quentin712/group-4-python-quests.git
 ```bash
 cd group-4-python-quests/quests
 ```
-
 **3. Run all scripts at once**
 ```bash
 for f in *.py; do echo "Running $f..."; python3 "$f"; echo "---"; done
-```
-
+```**Test inputs you can use:**
+- Quest 12 password: `Maniac`
+- Voting age: `18` or above
+- Quest 29 secret code: `42`
+- Quest 18 & 25: guess any number between 1-100
 
 
 
