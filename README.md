@@ -28,11 +28,9 @@ Level 5: The Alchemist's Lab (Functions)
 Level 6: The Grand Challenge
 -Quest 25-30
 
-## How to run 
+## How to run (Step-by-Step_ 
 
-- First clone the repository
 - git clone https://github.com/Quentin712/group-4-python-quests.git
-- then 
 - cd group-4-python-quests/quests
 - for f in *.py; do
 - echo "Running $f..."; 
