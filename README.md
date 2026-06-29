@@ -1,41 +1,67 @@
-## Group 4 Python Quests
+# 🧙 Group 4 — Python Quests
 
-This is a python programming project where evry member completes their assigned quests under a certian level using python scripts.
+Six adventurers. Six levels. One goal: master Python from the ground up.
 
-## Group Members and their Part
+This project is part of our Python Basics coursework at ALU. Each member was assigned a level and completed at least 4 quests using Python scripts — covering everything from printing your first line of code to building a fully interactive text adventure.
 
-- Philbert 
-Level 1: The Magic of Words and Numbers (Variables & Printing)
--Quest 1-5
+---
 
-- Boromeon Dushime
-Level 2: A Dialogue with the Machine (User Input & Basic Math)
--Quest 6-10
+## ⚔️ The Adventurers & Their Levels
 
-- Lizza kamikazi
-Level 3: The Crossroads of Logic (Conditional Statements)
--Quest 11-15
+**Philbert — Level 1: The Magic of Words and Numbers**
+Started the journey by mastering the basics — printing messages, storing data in variables, working with strings and numbers, and building dynamic output using f-strings.
+Quests: 1, 2, 3, 4
 
-- Yannis Sheja
-Level 4: The Power of Repetition (Loops)
--Quest 16-20
+**Boromeon Dushime — Level 2: A Dialogue with the Machine**
+Made the programs interactive — taking user input, converting data types, and performing arithmetic operations including division, multiplication, and the modulo operator.
+Quests: 6, 7, 8, 9
 
-- Fatima Mohamed
-Level 5: The Alchemist's Lab (Functions)
--Quest 21-24
+**Lizza Kamikazi — Level 3: The Crossroads of Logic**
+Built decision-making programs — a password checker, a grading system, a club bouncer using logical operators, and a mini text adventure using nested if statements.
+Quests: 11, 12, 13, 14, 15
 
-- Quentin Aymard Ntore
-Level 6: The Grand Challenge
--Quest 25-30
+**Yannis Sheja — Level 4: The Power of Repetition**
+Automated repetitive tasks using loops — counting with for loops, building a guessing game with while loops, a rocket countdown, and filtering even numbers from a range.
+Quests: 16, 17, 18, 19, 20
 
-## How to run (Step-by-Step_ 
+**Fatima Mohamed — Level 5: The Alchemist's Lab**
+Packaged reusable code into functions — greeting adventurers, personalizing messages with parameters, calculating areas using return values, and chaining functions together.
+Quests: 21, 22, 23, 24
 
-- git clone https://github.com/Quentin712/group-4-python-quests.git
-- cd group-4-python-quests/quests
-- for f in *.py; do
-- echo "Running $f..."; 
-- python3 "$f"; 
-- echo "---"; 
-- done
+**Quentin Aymard Ntore — Level 6: The Grand Challenge**
+Combined everything into real programs — an upgraded guessing game, a working calculator, FizzBuzz, a text adventure with multiple endings, and a code breaker with limited attempts.
+Quests: 25, 26, 27, 28, 29
+
+---
+## 📂 Project Structure
+
+```
+group-4-python-quests/
+├── quests/
+│   ├── quest_01_first_spell.py
+│   ├── quest_02_naming_ceremony.py
+│   └── ... (all scripts here)
+└── README.md
+```
+---
+
+## 🚀 How to Run (Step-by-Step)
+
+**1. Clone the repo**
+```bash
+git clone https://github.com/Quentin712/group-4-python-quests.git
+```
+
+**2. Go into the quests folder**
+```bash
+cd group-4-python-quests/quests
+```
+
+**3. Run all scripts at once**
+```bash
+for f in *.py; do echo "Running $f..."; python3 "$f"; echo "---"; done
+```
+
+
 
 
