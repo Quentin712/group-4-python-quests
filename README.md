@@ -73,7 +73,8 @@ for f in *.py; do echo "Running $f..."; python3 "$f"; echo "---"; done
 - Quest 13 score: enter `70` or above to avoid Needs Improvement
 - Quest 14: age `18+` AND gold coins `20+` to get in
 - Quest 15: type `LEFT` then `SWIM` to find the treasure
-- Quest 18 & 25 secret number: `67`
+- Quest 18 secret number: `67`
+- Quest 25 secret number: `71`
 - Quest 28: type `in` to enter the forest, `back` to turn back
 - Quest 29 secret code: `42`
 - Voting age: `18` or above
