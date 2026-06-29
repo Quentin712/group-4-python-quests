@@ -1,4 +1,4 @@
-#In this quest, we want to generate number from 1 to 20 and check it it even or not.
+#In this quest, we want to generate number from 1 to 20 and check it is even or not.
 #We are going to use for-loop for generating numbers and if- statement to check if it even or not 
 for i in range(1, 21):
     #The range generates numbers from 1 to 20 excluding the last number which is 21
