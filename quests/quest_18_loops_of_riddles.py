@@ -4,7 +4,7 @@
 import random 
 #This command lets you generate random number, selections or shuffle items.
 secret_number = 67
-#
+#Let the secret number be 67
 guess = None 
 #We use while-loop as we need to keep asking the user to guess until the number is true 
 while guess != secret_number:
