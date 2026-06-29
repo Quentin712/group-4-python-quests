@@ -6,27 +6,27 @@ This is a python programming project where evry member completes their assigned 
 
 - Philbert 
 Level 1: The Magic of Words and Numbers (Variables & Printing)
-Quest 1-5
+-Quest 1-5
 
--Boromeon Dushime
+- Boromeon Dushime
 Level 2: A Dialogue with the Machine (User Input & Basic Math)
-Quest 6-10
+-Quest 6-10
 
--Lizza kamikazi
+- Lizza kamikazi
 Level 3: The Crossroads of Logic (Conditional Statements)
-Quest 11-15
+-Quest 11-15
 
--Yannis Sheja
+- Yannis Sheja
 Level 4: The Power of Repetition (Loops)
-Quest 16-20
+-Quest 16-20
 
--Fatima Mohamed
+- Fatima Mohamed
 Level 5: The Alchemist's Lab (Functions)
-Quest 21-24
+-Quest 21-24
 
--Quentin Aymard Ntore
+- Quentin Aymard Ntore
 Level 6: The Grand Challenge
-Quest 25-30
+-Quest 25-30
 
 ## Hot to run 
 
@@ -35,7 +35,7 @@ git clone https://github.com/Quentin712/group-4-python-quests.git
 then 
 cd group-4-python-quests
 
-To run at once: (cd quests/)
+To run at once:
 for f in *.py; do
 echo "Running $f..."; 
  python3 "$f"; 
