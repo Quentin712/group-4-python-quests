@@ -72,7 +72,8 @@ for f in *.py; do echo "Running $f..."; python3 "$f"; echo "---"; done
 - Quest 12 password: `Maniac`
 - Voting age: `18` or above
 - Quest 29 secret code: `42`
-- Quest 18 & 25: guess any number between 1-100
+- Quest 18 secret code: 67
+-  Quest 25 (guesing game): guess any number between 1-100
 
 
 
