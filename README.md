@@ -1,32 +1,39 @@
-# 🧙 Group 4 — Python Quests
-
-Six adventurers. Six levels. One goal: master Python from the ground up.
-
-This project is part of our Python Basics coursework at ALU. Each member was assigned a level and completed at least 4 quests using Python scripts — covering everything from printing your first line of code to building a fully interactive text adventure.
+## 🧙 Group 4 — Python Quests
+Six members, six levels, 30 quests. Each member owns a level and completes a set of Python scripts that tackle specific programming challenges, starting from the basics and working up to building real interactive programs.
 
 ---
 
 ## ⚔️ The Adventurers & Their Levels
-
+---
 **Philbert — Level 1: The Magic of Words and Numbers**
 Started the journey by mastering the basics — printing messages, storing data in variables, working with strings and numbers, and building dynamic output using f-strings.
 Quests: 1, 2, 3, 4
+
+---
 
 **Boromeon Dushime — Level 2: A Dialogue with the Machine**
 Made the programs interactive — taking user input, converting data types, and performing arithmetic operations including division, multiplication, and the modulo operator.
 Quests: 6, 7, 8, 9
 
+---
+
 **Lizza Kamikazi — Level 3: The Crossroads of Logic**
 Built decision-making programs — a password checker, a grading system, a club bouncer using logical operators, and a mini text adventure using nested if statements.
 Quests: 11, 12, 13, 14, 15
+
+---
 
 **Yannis Sheja — Level 4: The Power of Repetition**
 Automated repetitive tasks using loops — counting with for loops, building a guessing game with while loops, a rocket countdown, and filtering even numbers from a range.
 Quests: 16, 17, 18, 19, 20
 
+---
+
 **Fatima Mohamed — Level 5: The Alchemist's Lab**
 Packaged reusable code into functions — greeting adventurers, personalizing messages with parameters, calculating areas using return values, and chaining functions together.
 Quests: 21, 22, 23, 24
+
+---
 
 **Quentin Aymard Ntore — Level 6: The Grand Challenge**
 Combined everything into real programs — an upgraded guessing game, a working calculator, FizzBuzz, a text adventure with multiple endings, and a code breaker with limited attempts.
